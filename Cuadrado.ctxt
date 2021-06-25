@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cuadrado
+comment1.params=
+comment1.target=Cuadrado()
+comment2.params=
+comment2.target=char\ getId()
+comment3.params=
+comment3.target=Tiempo\ getTvida()
+comment4.params=t
+comment4.target=void\ setTime(Tiempo)
+numComments=5

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Espacio
+comment1.params=n
+comment1.target=Espacio(int)
+comment2.params=
+comment2.target=void\ ponerPlanta()
+comment3.params=x\ y
+comment3.target=void\ poner(int,\ int)
+comment4.params=
+comment4.target=void\ nextDay()
+comment5.params=x\ y
+comment5.target=boolean\ checkEspacio(int,\ int)
+comment6.params=posX\ posY
+comment6.target=void\ ponerTierra(int,\ int)
+comment7.params=posX\ posY
+comment7.target=void\ ponerPiedra(int,\ int)
+comment8.params=posX\ posY
+comment8.target=void\ ponerMadera(int,\ int)
+comment9.params=
+comment9.target=java.lang.String\ mostrar()
+numComments=10
